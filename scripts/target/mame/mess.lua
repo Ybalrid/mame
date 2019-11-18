@@ -3807,6 +3807,13 @@ files {
 	MAME_DIR .. "src/mame/includes/tranz330.h"
 }
 
+createMESSProjects(_target, _subtarget, "ybalrid")
+files {
+	MAME_DIR .. "src/mame/drivers/yaz80c.cpp",
+	MAME_DIR .. "src/mame/includes/yaz80c.h"
+}
+
+
 createMESSProjects(_target, _subtarget, "vidbrain")
 files {
 	MAME_DIR .. "src/mame/drivers/vidbrain.cpp",

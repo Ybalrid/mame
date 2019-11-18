@@ -41190,3 +41190,8 @@ vgmplay
 @source:ldplayer.cpp
 simldv1000                      // Pioneer LD-V1000
 simpr8210                       // Pioneer PR-8210
+
+
+@source:yaz80c.cpp
+yaz80c                        // (c) 2019 Arthur Brainville (Ybalrid)
+

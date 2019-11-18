@@ -6,7 +6,7 @@
 #define MAME_EMU_LOGMACRO_H
 
 #ifndef VERBOSE
-#define VERBOSE 0
+#define VERBOSE 1
 #endif
 
 #ifndef LOG_OUTPUT_FUNC
